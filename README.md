@@ -5,5 +5,5 @@ site feito em **HTML5 & CSS3** & **JavaScript** para estudo
 Calculo de tabuada com o valor de **multiplicador** e valor de até **qual numero deve ser multiplicado**
 
 ## Funcionamento
-### Opttimizado para ser **Responsivo**
+### Optimizado para ser **Responsivo**
 <img src="tabuada.gif" />
